@@ -1,0 +1,34 @@
+{
+  "barras": [
+    {
+      "nombre": "Ejemplo - Trabajo",
+      "archivos": [
+        {
+          "path": "C:/ruta/a/tu/archivo1.xlsx",
+          "orden": 1
+        },
+        {
+          "path": "C:/ruta/a/tu/archivo2.docx",
+          "orden": 2
+        }
+      ],
+      "posicion": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    {
+      "nombre": "Ejemplo - Personal",
+      "archivos": [
+        {
+          "path": "C:/ruta/a/otro/archivo.pdf",
+          "orden": 1
+        }
+      ],
+      "posicion": {
+        "x": 100,
+        "y": 200
+      }
+    }
+  ]
+}
