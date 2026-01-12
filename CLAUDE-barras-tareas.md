@@ -2,6 +2,8 @@
 
 Guía técnica de la aplicación para Claude Code
 
+**Repositorio GitHub:** https://github.com/Rocio-bot/barras-tareas
+
 ## Descripción
 
 Barras de tareas personalizadas para Windows que reemplazan parcialmente la barra de tareas nativa. Permite organizar archivos abiertos en barras temáticas (ej: "Trabajo", "Contabilidad") con orden definido por la usuaria.

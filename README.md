@@ -1,5 +1,7 @@
 # Barras de Tareas - Uso Rápido
 
+**Repositorio:** https://github.com/Rocio-bot/barras-tareas
+
 ## Qué hace
 Barras flotantes que muestran solo los archivos que configuras cuando están abiertos. Orden fijo por ti definido.
 
